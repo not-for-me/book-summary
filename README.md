@@ -25,11 +25,11 @@ Foundation model 기반 AI 애플리케이션 구축을 위한 엔지니어링 �
 </details>
 
 ### ✍️ [AI Prompt Engineering](./ai_prompt_engineering)
-LLM 프롬프트 설계 원리와 기법 (현재 일부 챕터만 작성됨).
+LLM 프롬프트 설계 원리부터 에이전트·멀티모달·평가·거버넌스까지.
 📖 책: [AI Prompt Engineering (Amazon)](https://www.amazon.com/dp/B0G4BBJRNP)
 
 <details>
-<summary>챕터 목록 (10, 작성 중)</summary>
+<summary>챕터 목록 (41)</summary>
 
 - [01. What Is Prompt Engineering](./ai_prompt_engineering/01_What_Is_Prompt_Engineering.md)
 - [02. How LLMs Interpret Prompts](./ai_prompt_engineering/02_How_LLMs_Interpret_Prompts.md)
@@ -41,6 +41,37 @@ LLM 프롬프트 설계 원리와 기법 (현재 일부 챕터만 작성됨).
 - [08. Chain-of-Thought Prompting](./ai_prompt_engineering/08_Chain_Of_Thought_Prompting.md)
 - [09. Self-Consistency and Sampling Multiple Reasoning Paths](./ai_prompt_engineering/09_Self_Consistency_And_Sampling_Multiple_Reasoning_Paths.md)
 - [10. Step-Back Prompting](./ai_prompt_engineering/10_Step_Back_Prompting.md)
+- [11. Decomposition Within a Single Prompt](./ai_prompt_engineering/11_Decomposition_Within_A_Single_Prompt.md)
+- [12. Self-Critique Within a Single Response](./ai_prompt_engineering/12_Self_Critique_Within_A_Single_Response.md)
+- [13. Writing Prompts with AI](./ai_prompt_engineering/13_Writing_Prompts_With_AI.md)
+- [14. What Is an Agent](./ai_prompt_engineering/14_What_Is_An_Agent.md)
+- [15. Agentic Prompt Components](./ai_prompt_engineering/15_Agentic_Prompt_Components.md)
+- [16. The Agent Loop](./ai_prompt_engineering/16_The_Agent_Loop.md)
+- [17. Tool Use and Function Calling](./ai_prompt_engineering/17_Tool_Use_And_Function_Calling.md)
+- [18. Multi-Agent Systems](./ai_prompt_engineering/18_Multi_Agent_Systems.md)
+- [19. How Generative Media Models Work](./ai_prompt_engineering/19_How_Generative_Media_Models_Work.md)
+- [20. Components of an Image Prompt](./ai_prompt_engineering/20_Components_Of_An_Image_Prompt.md)
+- [21. Prompting for Images](./ai_prompt_engineering/21_Prompting_For_Images.md)
+- [22. Controlling Image Output](./ai_prompt_engineering/22_Controlling_Image_Output.md)
+- [23. Prompting for Video](./ai_prompt_engineering/23_Prompting_For_Video.md)
+- [24. Prompts to Systems](./ai_prompt_engineering/24_Prompts_To_Systems.md)
+- [25. Prompt Chaining and Pipelines](./ai_prompt_engineering/25_Prompt_Chaining_And_Pipelines.md)
+- [26. Decomposition at the System Level](./ai_prompt_engineering/26_Decomposition_At_The_System_Level.md)
+- [27. Retrieval-Augmented Generation](./ai_prompt_engineering/27_Retrieval_Augmented_Generation.md)
+- [28. Multimodal Systems](./ai_prompt_engineering/28_Multimodal_Systems.md)
+- [29. Prompt Templates and Reusability](./ai_prompt_engineering/29_Prompt_Templates_And_Reusability.md)
+- [30. System Architecture Patterns](./ai_prompt_engineering/30_System_Architecture_Patterns.md)
+- [31. Defining Success Criteria](./ai_prompt_engineering/31_Defining_Success_Criteria.md)
+- [32. Building Evaluation Datasets](./ai_prompt_engineering/32_Building_Evaluation_Datasets.md)
+- [33. Automated Evaluation Methods](./ai_prompt_engineering/33_Automated_Evaluation_Methods.md)
+- [34. Human Evaluation](./ai_prompt_engineering/34_Human_Evaluation.md)
+- [35. Testing in Production](./ai_prompt_engineering/35_Testing_In_Production.md)
+- [36. Regression Testing and Iteration](./ai_prompt_engineering/36_Regression_Testing_And_Iteration.md)
+- [37. Organizational Readiness](./ai_prompt_engineering/37_Organizational_Readiness.md)
+- [38. Prompt Ownership and Access Control](./ai_prompt_engineering/38_Prompt_Ownership_And_Access_Control.md)
+- [39. Security and Prompt Injection](./ai_prompt_engineering/39_Security_And_Prompt_Injection.md)
+- [40. Responsible Prompt Design](./ai_prompt_engineering/40_Responsible_Prompt_Design.md)
+- [41. Compliance and Auditability](./ai_prompt_engineering/41_Compliance_And_Auditability.md)
 
 </details>
 
@@ -184,6 +215,41 @@ LLM·RAG·지식 그래프를 결합한 자율 AI 에이전트 구축 실전 가
 - [13. Mastering Soft Skills in the Tech World](./fundamentals_of_software_engineering/13_Mastering_Soft_Skills_in_the_Tech_World.md)
 - [14. Career Management](./fundamentals_of_software_engineering/14_Career_Management.md)
 - [15. The AI-Powered Software Engineer](./fundamentals_of_software_engineering/15_The_AI-Powered_Software_Engineer.md)
+
+</details>
+
+### 🏢 [Software Engineering at Google](./software_engineering_at_google)
+구글의 대규모 엔지니어링 문화·프로세스·도구에서 배우는 실전 교훈.
+📖 책: [Software Engineering at Google (Amazon)](https://www.amazon.com/dp/1492082791)
+
+<details>
+<summary>챕터 목록 (25)</summary>
+
+- [01. What Is Software Engineering](./software_engineering_at_google/01_What_Is_Software_Engineering.md)
+- [02. How to Work Well on Teams](./software_engineering_at_google/02_How_to_Work_Well_on_Teams.md)
+- [03. Knowledge Sharing](./software_engineering_at_google/03_Knowledge_Sharing.md)
+- [04. Engineering for Equity](./software_engineering_at_google/04_Engineering_for_Equity.md)
+- [05. How to Lead a Team](./software_engineering_at_google/05_How_to_Lead_a_Team.md)
+- [06. Leading at Scale](./software_engineering_at_google/06_Leading_at_Scale.md)
+- [07. Measuring Engineering Productivity](./software_engineering_at_google/07_Measuring_Engineering_Productivity.md)
+- [08. Style Guides and Rules](./software_engineering_at_google/08_Style_Guides_and_Rules.md)
+- [09. Code Review](./software_engineering_at_google/09_Code_Review.md)
+- [10. Documentation](./software_engineering_at_google/10_Documentation.md)
+- [11. Testing Overview](./software_engineering_at_google/11_Testing_Overview.md)
+- [12. Unit Testing](./software_engineering_at_google/12_Unit_Testing.md)
+- [13. Test Doubles](./software_engineering_at_google/13_Test_Doubles.md)
+- [14. Larger Testing](./software_engineering_at_google/14_Larger_Testing.md)
+- [15. Deprecation](./software_engineering_at_google/15_Deprecation.md)
+- [16. Version Control and Branch Management](./software_engineering_at_google/16_Version_Control_and_Branch_Management.md)
+- [17. Code Search](./software_engineering_at_google/17_Code_Search.md)
+- [18. Build Systems and Build Philosophy](./software_engineering_at_google/18_Build_Systems_and_Build_Philosophy.md)
+- [19. Critique: Google's Code Review Tool](./software_engineering_at_google/19_Critique_Googles_Code_Review_Tool.md)
+- [20. Static Analysis](./software_engineering_at_google/20_Static_Analysis.md)
+- [21. Dependency Management](./software_engineering_at_google/21_Dependency_Management.md)
+- [22. Large-Scale Changes](./software_engineering_at_google/22_Large_Scale_Changes.md)
+- [23. Continuous Integration](./software_engineering_at_google/23_Continuous_Integration.md)
+- [24. Continuous Delivery](./software_engineering_at_google/24_Continuous_Delivery.md)
+- [25. Compute as a Service](./software_engineering_at_google/25_Compute_as_a_Service.md)
 
 </details>
 
