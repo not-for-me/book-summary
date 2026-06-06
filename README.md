@@ -141,6 +141,31 @@ LLM·RAG·지식 그래프를 결합한 자율 AI 에이전트 구축 실전 가
 
 </details>
 
+### 🧠 [Knowledge Graphs and LLMs in Action](./knowledge_graphs_and_llms_in_actions)
+지식 그래프와 LLM을 결합한 하이브리드 지능형 시스템 구축 실전.
+📖 책: [Knowledge Graphs and LLMs in Action (Amazon)](https://www.amazon.com/dp/1633439895)
+
+<details>
+<summary>챕터 목록 (15)</summary>
+
+- [01. Knowledge Graphs and LLMs: A Killer Combination](./knowledge_graphs_and_llms_in_actions/01_Knowledge_Graphs_and_LLMs_A_Killer_Combination.md)
+- [02. Intelligent Systems: A Hybrid Approach](./knowledge_graphs_and_llms_in_actions/02_Intelligent_Systems_A_Hybrid_Approach.md)
+- [03. Create Your First Knowledge Graph from Ontologies](./knowledge_graphs_and_llms_in_actions/03_Create_Your_First_Knowledge_Graph_From_Ontologies.md)
+- [04. From Simple Networks to Multisource Integration](./knowledge_graphs_and_llms_in_actions/04_From_Simple_Networks_to_Multisource_Integration.md)
+- [05. Extracting Domain-Specific Knowledge from Unstructured Data](./knowledge_graphs_and_llms_in_actions/05_Extracting_Domain-Specific_Knowledge_From_Unstructured_Data.md)
+- [06. Building Knowledge Graphs with Large Language Models](./knowledge_graphs_and_llms_in_actions/06_Building_Knowledge_Graphs_With_Large_Language_Models.md)
+- [07. Named Entity Disambiguation](./knowledge_graphs_and_llms_in_actions/07_Named_Entity_Disambiguation.md)
+- [08. NED with Open LLMs and Domain Ontologies](./knowledge_graphs_and_llms_in_actions/08_NED_With_Open_LLMs_and_Domain_Ontologies.md)
+- [09. Machine Learning on Knowledge Graphs: A Primer Approach](./knowledge_graphs_and_llms_in_actions/09_Machine_Learning_on_Knowledge_Graphs_A_Primer_Approach.md)
+- [10. Graph Feature Engineering: Manual and Semiautomated Approaches](./knowledge_graphs_and_llms_in_actions/10_Graph_Feature_Engineering_Manual_and_Semiautomated_Approaches.md)
+- [11. Graph Representation Learning and Graph Neural Networks](./knowledge_graphs_and_llms_in_actions/11_Graph_Representation_Learning_and_Graph_Neural_Networks.md)
+- [12. Node Classification and Link Prediction with GNNs](./knowledge_graphs_and_llms_in_actions/12_Node_Classification_and_Link_Prediction_With_GNNs.md)
+- [13. Knowledge Graph-Powered Retrieval-Augmented Generation](./knowledge_graphs_and_llms_in_actions/13_Knowledge_Graph-Powered_Retrieval-Augmented_Generation.md)
+- [14. Asking a KG Questions with Natural Language](./knowledge_graphs_and_llms_in_actions/14_Asking_a_KG_Questions_With_Natural_Language.md)
+- [15. Building a QA Agent with LangGraph](./knowledge_graphs_and_llms_in_actions/15_Building_a_QA_Agent_With_LangGraph.md)
+
+</details>
+
 ### 📊 [Data Quality Fundamentals](./data_quality_fundamentals)
 신뢰할 수 있는 데이터 시스템 구축과 데이터 품질 관리.
 📖 책: [Data Quality Fundamentals (Amazon)](https://www.amazon.com/Data-Quality-Fundamentals-Practitioners-Trustworthy/dp/1098112040)
