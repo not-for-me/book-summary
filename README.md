@@ -226,6 +226,28 @@ PostgreSQL의 핵심 기능과 실전 활용.
 
 </details>
 
+### 🧩 [Building Neo4j-Powered Applications with LLMs](./building-neo4j-powered-applications-with-llms)
+Neo4j 지식 그래프와 LLM·RAG를 결합한 지능형 애플리케이션 구축.
+📖 책: [Building Neo4j-Powered Applications with LLMs (Amazon)](https://www.amazon.com/dp/1836206232)
+
+<details>
+<summary>챕터 목록 (12)</summary>
+
+- [01. Introducing LLMs, RAGs, and Neo4j Knowledge Graphs](./building-neo4j-powered-applications-with-llms/01_Introducing_LLMs_RAGs_and_Neo4j_Knowledge_Graphs.md)
+- [02. Demystifying RAG](./building-neo4j-powered-applications-with-llms/02_Demystifying_RAG.md)
+- [03. Building a Foundational Understanding of Knowledge Graph](./building-neo4j-powered-applications-with-llms/03_Building_a_Foundational_Understanding_of_Knowledge_Graph.md)
+- [04. Building Your Neo4j Graph with Movies Dataset](./building-neo4j-powered-applications-with-llms/04_Building_Your_Neo4j_Graph_with_Movies_Dataset.md)
+- [05. Implementing Powerful Search Functionalities with Neo4j and Haystack](./building-neo4j-powered-applications-with-llms/05_Implementing_Powerful_Search_Functionalities_with_Neo4j_and_Haystack.md)
+- [06. Exploring Advanced Knowledge Graph Capabilities with Neo4j](./building-neo4j-powered-applications-with-llms/06_Exploring_Advanced_Knowledge_Graph_Capabilities_with_Neo4j.md)
+- [07. Introducing the Neo4j Spring AI and LangChain4j Frameworks](./building-neo4j-powered-applications-with-llms/07_Introducing_the_Neo4j_Spring_AI_and_LangChain4j_Frameworks.md)
+- [08. Constructing a Recommendation Graph with H&M Personalization Dataset](./building-neo4j-powered-applications-with-llms/08_Constructing_a_Recommendation_Graph_with_HnM_Personalization_Dataset.md)
+- [09. Integrating LangChain4j and Spring AI with Neo4j](./building-neo4j-powered-applications-with-llms/09_Integrating_LangChain4j_and_Spring_AI_with_Neo4j.md)
+- [10. Creating an Intelligent Recommendation System](./building-neo4j-powered-applications-with-llms/10_Creating_an_Intelligent_Recommendation_System.md)
+- [11. Choosing the Right Cloud Platform for GenAI Applications](./building-neo4j-powered-applications-with-llms/11_Choosing_the_Right_Cloud_Platform_for_GenAI_Applications.md)
+- [12. Deploying Your Application on the Google Cloud](./building-neo4j-powered-applications-with-llms/12_Deploying_Your_Application_on_the_Google_Cloud.md)
+
+</details>
+
 ### 📦 [Managing Data as a Product](./managing_data_as_a_product)
 데이터를 하나의 제품으로 다루는 아키텍처와 운영 전략.
 📖 책: [Managing Data as a Product (Amazon)](https://www.amazon.com/dp/1835468535)
