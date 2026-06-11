@@ -600,3 +600,24 @@ Graph Thinking과 Graph 기술로 복잡한 문제 해결 — 관계형에서 �
 - [13. Epilogue](03_Resources/AI%20&%20Data%20&%20Engineering/Books/the_practitioners_guide_to_graph_data/13-epilogue.md)
 
 </details>
+
+### 🎯 [Designing Machine Learning Systems](./designing_machine_learning_systems)
+ML 시스템 설계의 전체 스펙트럼 — 데이터 엔지니어링·특성 공학·모델 개발·배포·모니터링·지속 학습·MLOps 인프라까지.
+📖 책: [Designing Machine Learning Systems (Amazon)](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969)
+
+<details>
+<summary>챕터 목록 (11)</summary>
+
+- [01. Overview of Machine Learning Systems](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_machine_learning_systems/01-overview-of-machine-learning-systems.md)
+- [02. Introduction to Machine Learning Systems Design](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_machine_learning_systems/02-introduction-to-machine-learning-systems-design.md)
+- [03. Data Engineering Fundamentals](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_machine_learning_systems/03-data-engineering-fundamentals.md)
+- [04. Training Data](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_machine_learning_systems/04-training-data.md)
+- [05. Feature Engineering](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_machine_learning_systems/05-feature-engineering.md)
+- [06. Model Development and Offline Evaluation](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_machine_learning_systems/06-model-development-and-offline-evaluation.md)
+- [07. Model Deployment and Prediction Service](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_machine_learning_systems/07-model-deployment-and-prediction-service.md)
+- [08. Data Distribution Shifts and Monitoring](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_machine_learning_systems/08-data-distribution-shifts-and-monitoring.md)
+- [09. Continual Learning and Test in Production](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_machine_learning_systems/09-continual-learning-and-test-in-production.md)
+- [10. Infrastructure and Tooling for MLOps](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_machine_learning_systems/10-infrastructure-and-tooling-for-mlops.md)
+- [11. The Human Side of Machine Learning](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_machine_learning_systems/11-the-human-side-of-machine-learning.md)
+
+</details>
