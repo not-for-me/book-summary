@@ -532,3 +532,48 @@ Knowledge Graph-Enhanced RAG — LLM 정확도 향상부터 벡터 검색·Cyphe
 - [08. RAG Application Evaluation](03_Resources/AI%20&%20Data%20&%20Engineering/Books/essential_graphrag/08-rag-application-evaluation.md)
 
 </details>
+
+### 🏗️ [Building Machine Learning Systems with a Feature Store](./building_machine_learning_systems_with_a_feature%20Store)
+Feature Store 기반 ML 시스템 설계 — 배치·실시간 파이프라인부터 LLM 워크플로우, 테스팅, 모니터링까지.
+📖 책: [Building Machine Learning Systems with a Feature Store: Batch, Real-Time, and LLM Systems (Amazon)](https://www.amazon.com/Building-Machine-Learning-Systems-Feature/dp/1098165233)
+
+<details>
+<summary>챕터 목록 (15)</summary>
+
+- [01. Building Machine Learning Systems](03_Resources/AI%20&%20Data%20&%20Engineering/Books/building_machine_learning_systems_with_a_feature%20Store/01-building-machine-learning-systems.md)
+- [02. Machine Learning Pipelines](03_Resources/AI%20&%20Data%20&%20Engineering/Books/building_machine_learning_systems_with_a_feature%20Store/02-machine-learning-pipelines.md)
+- [03. Your Friendly Neighborhood Air Quality Forecasting Service](03_Resources/AI%20&%20Data%20&%20Engineering/Books/building_machine_learning_systems_with_a_feature%20Store/03-your-friendly-neighborhood-air-quality-forecasting-service.md)
+- [04. Feature Stores](03_Resources/AI%20&%20Data%20&%20Engineering/Books/building_machine_learning_systems_with_a_feature%20Store/04-feature-stores.md)
+- [05. Hopsworks Feature Store](03_Resources/AI%20&%20Data%20&%20Engineering/Books/building_machine_learning_systems_with_a_feature%20Store/05-hopsworks-feature-store.md)
+- [06. Model-Independent Transformations](03_Resources/AI%20&%20Data%20&%20Engineering/Books/building_machine_learning_systems_with_a_feature%20Store/06-model-independent-transformations.md)
+- [07. Model-Dependent and On-Demand Transformations](03_Resources/AI%20&%20Data%20&%20Engineering/Books/building_machine_learning_systems_with_a_feature%20Store/07-model-dependent-and-on-demand-transformations.md)
+- [08. Batch Feature Pipelines](03_Resources/AI%20&%20Data%20&%20Engineering/Books/building_machine_learning_systems_with_a_feature%20Store/08-batch-feature-pipelines.md)
+- [09. Streaming and Real-Time Features](03_Resources/AI%20&%20Data%20&%20Engineering/Books/building_machine_learning_systems_with_a_feature%20Store/09-streaming-and-real-time-features.md)
+- [10. Training Pipelines](03_Resources/AI%20&%20Data%20&%20Engineering/Books/building_machine_learning_systems_with_a_feature%20Store/10-training-pipelines.md)
+- [11. Inference Pipelines](03_Resources/AI%20&%20Data%20&%20Engineering/Books/building_machine_learning_systems_with_a_feature%20Store/11-inference-pipelines.md)
+- [12. Agents and LLM Workflows](03_Resources/AI%20&%20Data%20&%20Engineering/Books/building_machine_learning_systems_with_a_feature%20Store/12-agents-and-llm-workflows.md)
+- [13. Testing AI Systems](03_Resources/AI%20&%20Data%20&%20Engineering/Books/building_machine_learning_systems_with_a_feature%20Store/13-testing-ai-systems.md)
+- [14. Observability and Monitoring AI Systems](03_Resources/AI%20&%20Data%20&%20Engineering/Books/building_machine_learning_systems_with_a_feature%20Store/14-observability-and-monitoring-ai-systems.md)
+- [15. TikTok's Personalized Recommender — The World's Most Valuable AI System](03_Resources/AI%20&%20Data%20&%20Engineering/Books/building_machine_learning_systems_with_a_feature%20Store/15-tiktok-s-personalized-recommender-the-world-s-most-valuable-ai-system.md)
+
+</details>
+
+### ⚙️ [Hands-On LLM Serving and Optimization](./hands-on-llm-serving%20-and-optimization)
+LLM serving의 전체 스펙트럼 — 모델 배포·최적화·프레임워크부터 고급 최적화 기법과 실전 적용까지.
+📖 책: [Hands-On LLM Serving and Optimization: Hosting LLMs at Scale (Amazon)](https://www.amazon.com/Hands-LLM-Serving-Optimization-Hosting/dp/B0G48JRRMF)
+
+<details>
+<summary>챕터 목록 (10)</summary>
+
+- [01. Introduction to Model Serving and Optimization](03_Resources/AI%20&%20Data%20&%20Engineering/Books/hands-on-llm-serving%20-and-optimization/01-introduction-to-model-serving-and-optimization.md)
+- [02. Large Language Model Serving](03_Resources/AI%20&%20Data%20&%20Engineering/Books/hands-on-llm-serving%20-and-optimization/02-large-language-model-serving.md)
+- [03. Model Serving System Design: A Deep Dive](03_Resources/AI%20&%20Data%20&%20Engineering/Books/hands-on-llm-serving%20-and-optimization/03-model-serving-system-design-a-deep-dive.md)
+- [04. Model Serving Best Practices](03_Resources/AI%20&%20Data%20&%20Engineering/Books/hands-on-llm-serving%20-and-optimization/04-model-serving-best-practices.md)
+- [05. Challenges When Serving LLMs](03_Resources/AI%20&%20Data%20&%20Engineering/Books/hands-on-llm-serving%20-and-optimization/05-challenges-when-serving-llms.md)
+- [06. Essential LLM Optimization Techniques](03_Resources/AI%20&%20Data%20&%20Engineering/Books/hands-on-llm-serving%20-and-optimization/06-essential-llm-optimization-techniques.md)
+- [07. Advanced LLM Optimization Techniques](03_Resources/AI%20&%20Data%20&%20Engineering/Books/hands-on-llm-serving%20-and-optimization/07-advanced-llm-optimization-techniques.md)
+- [08. LLM Serving Frameworks](03_Resources/AI%20&%20Data%20&%20Engineering/Books/hands-on-llm-serving%20-and-optimization/08-llm-serving-frameworks.md)
+- [09. LLM Optimization in Practice](03_Resources/AI%20&%20Data%20&%20Engineering/Books/hands-on-llm-serving%20-and-optimization/09-llm-optimization-in-practice.md)
+- [10. Advancements in LLM Serving](03_Resources/AI%20&%20Data%20&%20Engineering/Books/hands-on-llm-serving%20-and-optimization/10-advancements-in-llm-serving.md)
+
+</details>
