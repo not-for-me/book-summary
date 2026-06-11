@@ -621,3 +621,23 @@ ML 시스템 설계의 전체 스펙트럼 — 데이터 엔지니어링·특성
 - [11. The Human Side of Machine Learning](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_machine_learning_systems/11-the-human-side-of-machine-learning.md)
 
 </details>
+
+### 🎨 [Generative AI Design Patterns](./generative_ai_design_patterns)
+GenAI 애플리케이션 구축 시 반복되는 문제를 해결하는 32개 디자인 패턴 — 컨텐츠 제어·지식 추가·신뢰성·에이전트·안전장치까지.
+📖 책: [Generative AI Design Patterns: Solutions to Common Challenges When Building GenAI Agents and Applications (Amazon)](https://www.amazon.com/Generative-Design-Patterns-Challenges-Applications/dp/B0FN37DV9N)
+
+<details>
+<summary>챕터 목록 (10)</summary>
+
+- [01. Introduction](03_Resources/AI%20&%20Data%20&%20Engineering/Books/generative_ai_design_patterns/01-introduction.md)
+- [02. Controlling Content Style](03_Resources/AI%20&%20Data%20&%20Engineering/Books/generative_ai_design_patterns/02-controlling-content-style.md)
+- [03. Adding Knowledge (Bass)](03_Resources/AI%20&%20Data%20&%20Engineering/Books/generative_ai_design_patterns/03-adding-knowledge-bass.md)
+- [04. Adding Knowledge (Syncopation)](03_Resources/AI%20&%20Data%20&%20Engineering/Books/generative_ai_design_patterns/04-adding-knowledge-syncopation.md)
+- [05. Extending Model Capabilities](03_Resources/AI%20&%20Data%20&%20Engineering/Books/generative_ai_design_patterns/05-extending-model-capabilities.md)
+- [06. Improving Reliability](03_Resources/AI%20&%20Data%20&%20Engineering/Books/generative_ai_design_patterns/06-improving-reliability.md)
+- [07. Enabling Agents to Take Action](03_Resources/AI%20&%20Data%20&%20Engineering/Books/generative_ai_design_patterns/07-enabling-agents-to-take-action.md)
+- [08. Addressing Constraints](03_Resources/AI%20&%20Data%20&%20Engineering/Books/generative_ai_design_patterns/08-addressing-constraints.md)
+- [09. Setting Safeguards](03_Resources/AI%20&%20Data%20&%20Engineering/Books/generative_ai_design_patterns/09-setting-safeguards.md)
+- [10. Composable Agentic Workflows](03_Resources/AI%20&%20Data%20&%20Engineering/Books/generative_ai_design_patterns/10-composable-agentic-workflows.md)
+
+</details>
