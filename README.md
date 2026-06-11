@@ -577,3 +577,26 @@ LLM serving의 전체 스펙트럼 — 모델 배포·최적화·프레임워크
 - [10. Advancements in LLM Serving](03_Resources/AI%20&%20Data%20&%20Engineering/Books/hands-on-llm-serving%20-and-optimization/10-advancements-in-llm-serving.md)
 
 </details>
+
+### 🗺️ [The Practitioner's Guide to Graph Data](./the_practitioners_guide_to_graph_data)
+Graph Thinking과 Graph 기술로 복잡한 문제 해결 — 관계형에서 그래프 사고로의 전환, 고객 360, 경로 탐색, 추천, 엔티티 해소까지.
+📖 책: [The Practitioner's Guide to Graph Data: Applying Graph Thinking and Graph Technologies to Solve Complex Problems (Amazon)](https://www.amazon.com/Practitioners-Guide-Graph-Data/dp/1492044075)
+
+<details>
+<summary>챕터 목록 (13)</summary>
+
+- [01. Graph Thinking](03_Resources/AI%20&%20Data%20&%20Engineering/Books/the_practitioners_guide_to_graph_data/01-graph-thinking.md)
+- [02. Evolving from Relational to Graph Thinking](03_Resources/AI%20&%20Data%20&%20Engineering/Books/the_practitioners_guide_to_graph_data/02-evolving-from-relational-to-graph-thinking.md)
+- [03. Getting Started: A Simple Customer 360](03_Resources/AI%20&%20Data%20&%20Engineering/Books/the_practitioners_guide_to_graph_data/03-getting-started-a-simple-customer-360.md)
+- [04. Exploring Neighborhoods in Development](03_Resources/AI%20&%20Data%20&%20Engineering/Books/the_practitioners_guide_to_graph_data/04-exploring-neighborhoods-in-development.md)
+- [05. Exploring Neighborhoods in Production](03_Resources/AI%20&%20Data%20&%20Engineering/Books/the_practitioners_guide_to_graph_data/05-exploring-neighborhoods-in-production.md)
+- [06. Using Trees in Development](03_Resources/AI%20&%20Data%20&%20Engineering/Books/the_practitioners_guide_to_graph_data/06-using-trees-in-development.md)
+- [07. Using Trees in Production](03_Resources/AI%20&%20Data%20&%20Engineering/Books/the_practitioners_guide_to_graph_data/07-using-trees-in-production.md)
+- [08. Finding Paths in Development](03_Resources/AI%20&%20Data%20&%20Engineering/Books/the_practitioners_guide_to_graph_data/08-finding-paths-in-development.md)
+- [09. Finding Paths in Production](03_Resources/AI%20&%20Data%20&%20Engineering/Books/the_practitioners_guide_to_graph_data/09-finding-paths-in-production.md)
+- [10. Recommendations in Development](03_Resources/AI%20&%20Data%20&%20Engineering/Books/the_practitioners_guide_to_graph_data/10-recommendations-in-development.md)
+- [11. Simple Entity Resolution in Graphs](03_Resources/AI%20&%20Data%20&%20Engineering/Books/the_practitioners_guide_to_graph_data/11-simple-entity-resolution-in-graphs.md)
+- [12. Recommendations in Production](03_Resources/AI%20&%20Data%20&%20Engineering/Books/the_practitioners_guide_to_graph_data/12-recommendations-in-production.md)
+- [13. Epilogue](03_Resources/AI%20&%20Data%20&%20Engineering/Books/the_practitioners_guide_to_graph_data/13-epilogue.md)
+
+</details>
