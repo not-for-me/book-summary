@@ -428,46 +428,46 @@ Neo4j 지식 그래프와 LLM·RAG를 결합한 지능형 애플리케이션 구
 - [10. The Multiprocessing Module](03_Resources/AI%20&%20Data%20&%20Engineering/Books/high_performance_python_3rd/10_The_Multiprocessing_Module.md)
 - [11. Clusters and Job Queues](03_Resources/AI%20&%20Data%20&%20Engineering/Books/high_performance_python_3rd/11_Clusters_and_Job_Queues.md)
 - [12. Using Less RAM](03_Resources/AI%20&%20Data%20&%20Engineering/Books/high_performance_python_3rd/12_Using_Less_RAM.md)
-|- [13. Lessons from the Field](03_Resources/AI%20&%20Data%20&%20Engineering/Books/high_performance_python_3rd/13_Lessons_from_the_Field.md)
-|
-|</details>
-|
-|### 📐 [Practical Data Quality](./practical_data_quality)
-|데이터 품질 관리의 비즈니스 사례부터 탐색·규칙·모니터링·개선·조직화까지 실전 전략.
-|📖 책: [Practical Data Quality (Amazon)](https://www.amazon.com/Practical-Data-Quality-real-world-organization/dp/180461078X)
-|
-|<details>
-|<summary>챕터 목록 (10)</summary>
-|
-|- [01. The Impact of Data Quality on Organizations](03_Resources/AI%20&%20Data%20&%20Engineering/Books/practical_data_quality/01_The_Impact_of_Data_Quality_on_Organizations.md)
-|- [02. The Principles of Data Quality](03_Resources/AI%20&%20Data%20&%20Engineering/Books/practical_data_quality/02_The_Principles_of_Data_Quality.md)
-|- [03. The Business Case for Data Quality](03_Resources/AI%20&%20Data%20&%20Engineering/Books/practical_data_quality/03_The_Business_Case_for_Data_Quality.md)
-|- [04. Getting Started with a Data Quality Initiative](03_Resources/AI%20&%20Data%20&%20Engineering/Books/practical_data_quality/04_Getting_Started_with_a_Data_Quality_Initiative.md)
-|- [05. Data Discovery](03_Resources/AI%20&%20Data%20&%20Engineering/Books/practical_data_quality/05_Data_Discovery.md)
-|- [06. Data Quality Rules](03_Resources/AI%20&%20Data%20&%20Engineering/Books/practical_data_quality/06_Data_Quality_Rules.md)
-|- [07. Monitoring Data Against Rules](03_Resources/AI%20&%20Data%20&%20Engineering/Books/practical_data_quality/07_Monitoring_Data_Against_Rules.md)
-|- [08. Data Quality Remediation](03_Resources/AI%20&%20Data%20&%20Engineering/Books/practical_data_quality/08_Data_Quality_Remediation.md)
-|- [09. Embedding Data Quality in Organizations](03_Resources/AI%20&%20Data%20&%20Engineering/Books/practical_data_quality/09_Embedding_Data_Quality_in_Organizations.md)
-|- [10. Best Practices and Common Mistakes](03_Resources/AI%20&%20Data%20&%20Engineering/Books/practical_data_quality/10_Best_Practices_and_Common_Mistakes.md)
-|
-|</details>
-|
-|### 🏭 [Data Quality Engineering in Financial Services](./data_quality_engineering_in_financial_services)
-|제조업 사고방식을 데이터 관리에 적용한 DQS(Data Quality Specification) 모델과 금융권 데이터 거버넌스, MDM, 프로젝트 방법론.
-|📖 책: [Data Quality Engineering in Financial Services (Amazon)](https://www.amazon.com/Data-Quality-Engineering-Financial-Services/dp/1098136934)
-|
-|<details>
-|<summary>챕터 목록 (10)</summary>
-|
-|- [01. Thinking Like a Manufacturer](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/01_Thinking_Like_a_Manufacturer.md)
-|- [02. The Shape of Data](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/02_The_Shape_of_Data.md)
-|- [03. Data Quality Specifications](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/03_Data_Quality_Specifications.md)
-|- [04. DQS Model Example](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/04_DQS_Model_Example.md)
-|- [05. Data Quality Metrics and Visualization](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/05_Data_Quality_Metrics_and_Visualization.md)
-|- [06. Operational Efficiency Cost Model](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/06_Operational_Efficiency_Cost_Model.md)
-|- [07. Data Governance](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/07_Data_Governance.md)
-|- [08. Master Data Management](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/08_Master_Data_Management.md)
-|- [09. Data Project Methodology](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/09_Data_Project_Methodology.md)
-|- [10. Enterprise Data Management](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/10_Enterprise_Data_Management.md)
-|
-|</details>
+- [13. Lessons from the Field](03_Resources/AI%20&%20Data%20&%20Engineering/Books/high_performance_python_3rd/13_Lessons_from_the_Field.md)
+
+</details>
+
+### 📐 [Practical Data Quality](./practical_data_quality)
+데이터 품질 관리의 비즈니스 사례부터 탐색·규칙·모니터링·개선·조직화까지 실전 전략.
+📖 책: [Practical Data Quality (Amazon)](https://www.amazon.com/Practical-Data-Quality-real-world-organization/dp/180461078X)
+
+<details>
+<summary>챕터 목록 (10)</summary>
+
+- [01. The Impact of Data Quality on Organizations](03_Resources/AI%20&%20Data%20&%20Engineering/Books/practical_data_quality/01_The_Impact_of_Data_Quality_on_Organizations.md)
+- [02. The Principles of Data Quality](03_Resources/AI%20&%20Data%20&%20Engineering/Books/practical_data_quality/02_The_Principles_of_Data_Quality.md)
+- [03. The Business Case for Data Quality](03_Resources/AI%20&%20Data%20&%20Engineering/Books/practical_data_quality/03_The_Business_Case_for_Data_Quality.md)
+- [04. Getting Started with a Data Quality Initiative](03_Resources/AI%20&%20Data%20&%20Engineering/Books/practical_data_quality/04_Getting_Started_with_a_Data_Quality_Initiative.md)
+- [05. Data Discovery](03_Resources/AI%20&%20Data%20&%20Engineering/Books/practical_data_quality/05_Data_Discovery.md)
+- [06. Data Quality Rules](03_Resources/AI%20&%20Data%20&%20Engineering/Books/practical_data_quality/06_Data_Quality_Rules.md)
+- [07. Monitoring Data Against Rules](03_Resources/AI%20&%20Data%20&%20Engineering/Books/practical_data_quality/07_Monitoring_Data_Against_Rules.md)
+- [08. Data Quality Remediation](03_Resources/AI%20&%20Data%20&%20Engineering/Books/practical_data_quality/08_Data_Quality_Remediation.md)
+- [09. Embedding Data Quality in Organizations](03_Resources/AI%20&%20Data%20&%20Engineering/Books/practical_data_quality/09_Embedding_Data_Quality_in_Organizations.md)
+- [10. Best Practices and Common Mistakes](03_Resources/AI%20&%20Data%20&%20Engineering/Books/practical_data_quality/10_Best_Practices_and_Common_Mistakes.md)
+
+</details>
+
+### 🏭 [Data Quality Engineering in Financial Services](./data_quality_engineering_in_financial_services)
+제조업 사고방식을 데이터 관리에 적용한 DQS(Data Quality Specification) 모델과 금융권 데이터 거버넌스, MDM, 프로젝트 방법론.
+📖 책: [Data Quality Engineering in Financial Services (Amazon)](https://www.amazon.com/Data-Quality-Engineering-Financial-Services/dp/1098136934)
+
+<details>
+<summary>챕터 목록 (10)</summary>
+
+- [01. Thinking Like a Manufacturer](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/01_Thinking_Like_a_Manufacturer.md)
+- [02. The Shape of Data](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/02_The_Shape_of_Data.md)
+- [03. Data Quality Specifications](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/03_Data_Quality_Specifications.md)
+- [04. DQS Model Example](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/04_DQS_Model_Example.md)
+- [05. Data Quality Metrics and Visualization](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/05_Data_Quality_Metrics_and_Visualization.md)
+- [06. Operational Efficiency Cost Model](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/06_Operational_Efficiency_Cost_Model.md)
+- [07. Data Governance](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/07_Data_Governance.md)
+- [08. Master Data Management](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/08_Master_Data_Management.md)
+- [09. Data Project Methodology](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/09_Data_Project_Methodology.md)
+- [10. Enterprise Data Management](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/10_Enterprise_Data_Management.md)
+
+</details>
