@@ -471,3 +471,46 @@ Neo4j 지식 그래프와 LLM·RAG를 결합한 지능형 애플리케이션 구
 - [10. Enterprise Data Management](03_Resources/AI%20&%20Data%20&%20Engineering/Books/data_quality_engineering_in_financial_services/10_Enterprise_Data_Management.md)
 
 </details>
+
+### 📡 [Automating Data Quality Monitoring](./automating_data_quality_monitoring)
+ML 기반 데이터 품질 모니터링 자동화 — 규칙 기반을 넘어 비즈니스 영향 평가, 알림 피로 방지, 운영까지.
+📖 책: [Automating Data Quality Monitoring: Scaling Beyond Rules with Machine Learning (Amazon)](https://www.amazon.com/Automating-Data-Quality-Monitoring-Scale/dp/1098145933)
+
+<details>
+<summary>챕터 목록 (8)</summary>
+
+- [01. The Data Quality Imperative](03_Resources/AI%20&%20Data%20&%20Engineering/Books/automating_data_quality_monitoring/01_the-data-quality-imperative.md)
+- [02. Data Quality Monitoring Strategies](03_Resources/AI%20&%20Data%20&%20Engineering/Books/automating_data_quality_monitoring/02_data-quality-monitoring-strategies.md)
+- [03. Assessing Business Impact](03_Resources/AI%20&%20Data%20&%20Engineering/Books/automating_data_quality_monitoring/03_assessing-business-impact.md)
+- [04. Automating with Machine Learning](03_Resources/AI%20&%20Data%20&%20Engineering/Books/automating_data_quality_monitoring/04_automating-with-machine-learning.md)
+- [05. Model That Works on Real-World Data](03_Resources/AI%20&%20Data%20&%20Engineering/Books/automating_data_quality_monitoring/05_model-that-works-on-real-world-data.md)
+- [06. Notifications: Avoiding Alert Fatigue](03_Resources/AI%20&%20Data%20&%20Engineering/Books/automating_data_quality_monitoring/06_notifications-avoiding-alert-fatigue.md)
+- [07. Integrating with Data Tools](03_Resources/AI%20&%20Data%20&%20Engineering/Books/automating_data_quality_monitoring/07_integrating-with-data-tools.md)
+- [08. Operating Your Solution at Scale](03_Resources/AI%20&%20Data%20&%20Engineering/Books/automating_data_quality_monitoring/08_operating-your-solution-at-scale.md)
+
+</details>
+
+### 🧩 [Semantic Modeling for Data](./semantic_modeling_for_data)
+의미적 데이터 모델링의 원리와 함정 — semantic gap 해소부터 모델 품질·진화·거버넌스 딜레마까지.
+📖 책: [Semantic Modeling for Data: Avoiding Pitfalls and Breaking Dilemmas (Amazon)](https://www.amazon.com/Semantic-Modeling-Data-Avoiding-Pitfalls/dp/1492054275)
+
+<details>
+<summary>챕터 목록 (15)</summary>
+
+- [01. Mind the Semantic Gap](03_Resources/AI%20&%20Data%20&%20Engineering/Books/semantic_modeling_for_data/01_mind-the-semantic-gap.md)
+- [02. Semantic Modeling Elements](03_Resources/AI%20&%20Data%20&%20Engineering/Books/semantic_modeling_for_data/02_semantic-modeling-elements.md)
+- [03. Semantic and Linguistic Phenomena](03_Resources/AI%20&%20Data%20&%20Engineering/Books/semantic_modeling_for_data/03_semantic-and-linguistic-phenomena.md)
+- [04. Semantic Model Quality](03_Resources/AI%20&%20Data%20&%20Engineering/Books/semantic_modeling_for_data/04_semantic-model-quality.md)
+- [05. Semantic Model Development](03_Resources/AI%20&%20Data%20&%20Engineering/Books/semantic_modeling_for_data/05_semantic-model-development.md)
+- [06. Bad Descriptions](03_Resources/AI%20&%20Data%20&%20Engineering/Books/semantic_modeling_for_data/06_bad-descriptions.md)
+- [07. Bad Semantics](03_Resources/AI%20&%20Data%20&%20Engineering/Books/semantic_modeling_for_data/07_bad-semantics.md)
+- [08. Bad Model Specification and Knowledge Acquisition](03_Resources/AI%20&%20Data%20&%20Engineering/Books/semantic_modeling_for_data/08_bad-model-specification-and-knowledge-acquisition.md)
+- [09. Bad Quality Management](03_Resources/AI%20&%20Data%20&%20Engineering/Books/semantic_modeling_for_data/09_bad-quality-management.md)
+- [10. Bad Application](03_Resources/AI%20&%20Data%20&%20Engineering/Books/semantic_modeling_for_data/10_bad-application.md)
+- [11. Bad Strategy and Organization](03_Resources/AI%20&%20Data%20&%20Engineering/Books/semantic_modeling_for_data/11_bad-strategy-and-organization.md)
+- [12. Representation Dilemmas](03_Resources/AI%20&%20Data%20&%20Engineering/Books/semantic_modeling_for_data/12_representation-dilemmas.md)
+- [13. Expressiveness and Content Dilemmas](03_Resources/AI%20&%20Data%20&%20Engineering/Books/semantic_modeling_for_data/13_expressiveness-and-content-dilemmas.md)
+- [14. Evolution and Governance Dilemmas](03_Resources/AI%20&%20Data%20&%20Engineering/Books/semantic_modeling_for_data/14_evolution-and-governance-dilemmas.md)
+- [15. Looking Ahead](03_Resources/AI%20&%20Data%20&%20Engineering/Books/semantic_modeling_for_data/15_looking-ahead.md)
+
+</details>
