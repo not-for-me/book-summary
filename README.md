@@ -681,3 +681,27 @@ Helm으로 Kubernetes 리소스 구축·패키징·배포 — 환경 설정부�
 - [12. Helm Security Considerations](03_Resources/AI%20&%20Data%20&%20Engineering/Books/managing_kubernetes_resources_using_helm_second_ed/12-helm-security-considerations.md)
 
 </details>
+
+### 🗄️ [Designing Data-Intensive Applications (2nd Edition)](./designing_data_intensive_applications_2nd_ed)
+분산 데이터 시스템의 핵심 원리 — 복제·샤딩·트랜잭션·일관성·합의·배치/스트림 처리까지.
+📖 책: [Designing Data-Intensive Applications, 2nd Edition (Amazon)](https://www.amazon.com/Designing-Data-Intensive-Applications-Foundations/dp/1491902484)
+
+<details>
+<summary>챕터 목록 (14)</summary>
+
+- [01. Trade-Offs in Data Systems Architecture](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_data_intensive_applications_2nd_ed/01_Trade-Offs_in_Data_Systems_Architecture.md)
+- [02. Defining Nonfunctional Requirements](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_data_intensive_applications_2nd_ed/02_Defining_Nonfunctional_Requirements.md)
+- [03. Data Models and Query Languages](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_data_intensive_applications_2nd_ed/03_Data_Models_and_Query_Languages.md)
+- [04. Storage and Retrieval](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_data_intensive_applications_2nd_ed/04_Storage_and_Retrieval.md)
+- [05. Encoding and Evolution](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_data_intensive_applications_2nd_ed/05_Encoding_and_Evolution.md)
+- [06. Replication](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_data_intensive_applications_2nd_ed/06_Replication.md)
+- [07. Sharding](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_data_intensive_applications_2nd_ed/07_Sharding.md)
+- [08. Transactions](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_data_intensive_applications_2nd_ed/08_Transactions.md)
+- [09. The Trouble with Distributed Systems](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_data_intensive_applications_2nd_ed/09_The_Trouble_with_Distributed_Systems.md)
+- [10. Consistency and Consensus](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_data_intensive_applications_2nd_ed/10_Consistency_and_Consensus.md)
+- [11. Batch Processing](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_data_intensive_applications_2nd_ed/11_Batch_Processing.md)
+- [12. Stream Processing](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_data_intensive_applications_2nd_ed/12_Stream_Processing.md)
+- [13. A Philosophy of Streaming Systems](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_data_intensive_applications_2nd_ed/13_A_Philosophy_of_Streaming_Systems.md)
+- [14. Doing the Right Thing](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_data_intensive_applications_2nd_ed/14_Doing_the_Right_Thing.md)
+
+</details>

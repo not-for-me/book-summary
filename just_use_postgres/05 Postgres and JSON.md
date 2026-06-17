@@ -380,3 +380,7 @@ jsonb_path_exists(pizza, '$ ? (@.type == "custom") .toppings.cheese[*].parmesan 
 **Q5.** B-tree Expression Index(`CREATE INDEX ... ((pizza ->> 'type'))`)의 한계와, 이를 대체할 수 있는 GIN 인덱스의 장점을 비교 설명하시오.
 
 **Q6.** 기본 GIN 인덱스(`jsonb_ops`)와 `jsonb_path_ops` GIN 인덱스의 내부 저장 방식 차이를 설명하고, `?` 연산자가 `jsonb_path_ops` 인덱스에서 지원되지 않는 이유를 서술하시오.
+
+---
+### 📖 챕터 탐색
+← [04 Indexes](04 Indexes.md)　|　[06 Postgres for full-text search](06 Postgres for full-text search.md) →

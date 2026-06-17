@@ -584,3 +584,7 @@ EXCLUSION constraint는 지정된 컬럼/연산자 조합으로 두 행을 비�
 <summary>정답</summary>
 일반 View는 호출할 때마다 내부 쿼리를 실행하므로 항상 최신 데이터를 반환하지만 매번 쿼리 비용이 발생한다. Materialized View는 쿼리 결과를 물리적으로 저장(캐싱)하여 읽기 성능이 빠르지만, 원본 데이터가 변경되어도 자동으로 갱신되지 않는다. 갱신 명령어는 `REFRESH MATERIALIZED VIEW view_name;`이다. 주기적 자동 갱신에는 pg_cron 확장이나 트리거를 활용할 수 있다.
 </details>
+
+---
+### 📖 챕터 탐색
+← [01 Meeting Postgres](01 Meeting Postgres.md)　|　[03 Moder SQL](03 Moder SQL.md) →

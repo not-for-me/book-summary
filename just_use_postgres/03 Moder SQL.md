@@ -376,3 +376,7 @@ PARTITION BY를 생략하면 전체 결과 집합이 하나의 윈도우로 처�
 <summary>정답</summary>
 CTE가 primary statement 또는 다른 CTE에서 2회 이상 참조되면 PostgreSQL은 자동으로 materialize한다(한 번 실행 후 결과를 캐시). 강제로 제어하려면 `AS MATERIALIZED` (항상 캐시) 또는 `AS NOT MATERIALIZED` (매번 재평가)를 CTE 정의에 추가한다.
 </details>
+
+---
+### 📖 챕터 탐색
+← [02 Standard RDBMS capabilities](02 Standard RDBMS capabilities.md)　|　[04 Indexes](04 Indexes.md) →

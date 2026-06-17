@@ -348,3 +348,7 @@ FROM (SELECT @row := @row + 1 AS id
 <summary>정답 보기</summary>
 C. Postgres가 범용 DB로서 다양한 워크로드를 처리할 수 있으므로, 불필요하게 기술 스택을 복잡하게 만들기 전에 Postgres의 가능성을 먼저 확인하라는 실용적 조언이다. 해결이 어려우면 다른 전문 DB를 도입하면 된다.
 </details>
+
+---
+### 📖 챕터 탐색
+[02 Standard RDBMS capabilities](02 Standard RDBMS capabilities.md) →

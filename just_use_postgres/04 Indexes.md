@@ -366,3 +366,7 @@ SELECT * FROM player_stats
 **Q6.** Partial 인덱스 `WHERE play_time <= '50 hours'`가 정의되어 있을 때, `WHERE play_time <= '50 hours 1 second'` 조건의 쿼리는 이 인덱스를 사용할 수 있는가? 그 이유는?
 
 <details><summary>정답</summary>사용할 수 없다. 쿼리의 검색 범위(`<= 50시간 1초`)가 인덱스가 보장하는 범위(`<= 50시간`)보다 넓기 때문에, PostgreSQL은 인덱스에 포함되지 않은 데이터가 있을 수 있다고 판단하여 Partial 인덱스를 무시하고 Seq Scan으로 폴백한다.</details>
+
+---
+### 📖 챕터 탐색
+← [03 Moder SQL](03 Moder SQL.md)　|　[05 Postgres and JSON](05 Postgres and JSON.md) →

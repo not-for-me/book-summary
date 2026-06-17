@@ -472,3 +472,7 @@ D) 읽기 위주 워크로드에서는 일반적으로 GIN이 더 빠르다
 **Q5.** C) — GIN은 lexeme 자체만 저장하며, 위치 정보나 가중치는 저장하지 **않는다**. 위치 정보가 필요하면 테이블 행을 다시 조회하거나 RUM 인덱스를 사용해야 한다.
 
 **Q6.** `ts_headline`의 출력에는 원본 텍스트가 포함되므로, 사용자 입력이나 HTML 마크업이 포함된 문서를 처리할 경우 **XSS(Cross-Site Scripting) 공격**에 취약할 수 있다. 방지 방법: 입력 문서에서 HTML 태그를 제거하거나, `ts_headline` 출력 결과를 HTML sanitizer로 새니타이징한 후 웹 페이지에 렌더링해야 한다.
+
+---
+### 📖 챕터 탐색
+← [05 Postgres and JSON](05 Postgres and JSON.md)
