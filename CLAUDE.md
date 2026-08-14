@@ -61,3 +61,29 @@ for p in sorted(linked):
         print("stale 링크:", p)
 PY
 ```
+
+## ⚠️ 필수: public 미러에도 함께 반영한다
+
+이 저장소는 공개용 repo `public-knowledge-archive`의
+`resource/AI & Data & Engineering/Books/` 로 미러링된다
+(로컬 경로: `<vault>/public/resource/AI & Data & Engineering/Books/`).
+책/챕터를 추가·수정하면 **미러에도 동일하게 반영하고 그쪽 repo에서 별도 commit & push** 한다.
+
+미러 반영 규칙:
+- **챕터 `.md` 파일**은 그대로 복사한다 (내용 동일).
+- **README.md는 그대로 복사하지 말 것.** 미러 README는 **상대 경로**를 쓴다.
+  즉 링크에서 `03_Resources/AI%20&%20Data%20&%20Engineering/Books/` 프리픽스를 제거한
+  형태(예: `machine_learning_platform_engineering/01_...md`)로 넣는다.
+  새 섹션만 이 상대 경로로 변환해 미러 README 최하단에 append 한다.
+- **`CLAUDE.md`, `.claude/`, `.gitignore` 등 작업용 메타 파일은 미러에 복사하지 않는다.**
+
+미러 동기화 검증 (양쪽 트리 비교 — README만 경로 프리픽스 차이로 다르게 나오는 게 정상):
+
+```bash
+SRC="<vault>/03_Resources/AI & Data & Engineering/Books"
+DST="<vault>/public/resource/AI & Data & Engineering/Books"
+# 콘텐츠 parity (README는 정규화 후 비교) — 비어 있으면 일치
+diff <(sed 's#03_Resources/AI%20&%20Data%20&%20Engineering/Books/##g' "$SRC/README.md") "$DST/README.md"
+# 파일 트리 parity — README 외 차이가 없어야 한다
+diff -rq --exclude=.git --exclude=.claude --exclude=CLAUDE.md --exclude=.gitignore --exclude=.DS_Store "$SRC" "$DST"
+```
