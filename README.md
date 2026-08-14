@@ -705,3 +705,26 @@ Helm으로 Kubernetes 리소스 구축·패키징·배포 — 환경 설정부�
 - [14. Doing the Right Thing](03_Resources/AI%20&%20Data%20&%20Engineering/Books/designing_data_intensive_applications_2nd_ed/14_Doing_the_Right_Thing.md)
 
 </details>
+
+### 🧰 [Machine Learning Platform Engineering](./machine_learning_platform_engineering)
+MLOps·DevOps 원리로 ML·AI 시스템용 내부 개발자 플랫폼을 밑바닥부터 구축 — Kubeflow 기반 파이프라인·학습·서빙·모니터링부터 LLM 시스템 설계까지.
+📖 책: [Machine Learning Platform Engineering: Build an internal developer platform for ML and AI systems (Amazon)](https://www.amazon.com/Build-Machine-Learning-Platform-Scratch/dp/1633437337)
+
+<details>
+<summary>챕터 목록 (13)</summary>
+
+- [01. Getting Started with MLOps and ML Engineering](03_Resources/AI%20&%20Data%20&%20Engineering/Books/machine_learning_platform_engineering/01_Getting_Started_with_MLOps_and_ML_Engineering.md)
+- [02. What is MLOps](03_Resources/AI%20&%20Data%20&%20Engineering/Books/machine_learning_platform_engineering/02_What_is_MLOps.md)
+- [03. Building Applications on Kubernetes](03_Resources/AI%20&%20Data%20&%20Engineering/Books/machine_learning_platform_engineering/03_Building_Applications_on_Kubernetes.md)
+- [04. Designing Reliable ML Systems](03_Resources/AI%20&%20Data%20&%20Engineering/Books/machine_learning_platform_engineering/04_Designing_Reliable_ML_Systems.md)
+- [05. Orchestrating ML Pipelines](03_Resources/AI%20&%20Data%20&%20Engineering/Books/machine_learning_platform_engineering/05_Orchestrating_ML_Pipelines.md)
+- [06. Productionizing ML Models](03_Resources/AI%20&%20Data%20&%20Engineering/Books/machine_learning_platform_engineering/06_Productionizing_ML_Models.md)
+- [07. Data Analysis and Preparation](03_Resources/AI%20&%20Data%20&%20Engineering/Books/machine_learning_platform_engineering/07_Data_Analysis_and_Preparation.md)
+- [08. Model Training and Validation (Part 1)](03_Resources/AI%20&%20Data%20&%20Engineering/Books/machine_learning_platform_engineering/08_Model_Training_and_Validation_Part_1.md)
+- [09. Model Training and Validation (Part 2)](03_Resources/AI%20&%20Data%20&%20Engineering/Books/machine_learning_platform_engineering/09_Model_Training_and_Validation_Part_2.md)
+- [10. Model Inference and Serving](03_Resources/AI%20&%20Data%20&%20Engineering/Books/machine_learning_platform_engineering/10_Model_Inference_and_Serving.md)
+- [11. Monitoring and Explainability](03_Resources/AI%20&%20Data%20&%20Engineering/Books/machine_learning_platform_engineering/11_Monitoring_and_Explainability.md)
+- [12. Designing LLM-Powered Systems](03_Resources/AI%20&%20Data%20&%20Engineering/Books/machine_learning_platform_engineering/12_Designing_LLM_Powered_Systems.md)
+- [13. Production LLM System Design](03_Resources/AI%20&%20Data%20&%20Engineering/Books/machine_learning_platform_engineering/13_Production_LLM_System_Design.md)
+
+</details>
